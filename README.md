@@ -1,4 +1,3 @@
-[![MasterHead](https://www.freepik.com/vectors/vaporwave-banner)
 <h1 align="center">Hi 👋, I'm NIHAT</h1>
 <h3 align="center">Aspiring AI Engineer</h3>
 
