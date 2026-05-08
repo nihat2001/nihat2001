@@ -1,5 +1,5 @@
 # 🤖 About Me:
---I am an AI Engineer student dedicated to<br>building intelligent systems. <br><br>By leveraging core tools like Docker and n8n,<br>I develop API-based automations and <br>streamlined data processing workflows.<br><br>My focus is on integrating modern software practices to<br>engineer innovative, scalable, and efficient AI solutions.
+` I am an AI Engineer student dedicated to<br>building intelligent systems. <br><br>By leveraging core tools like Docker and n8n,<br>I develop API-based automations and <br>streamlined data processing workflows.<br><br>My focus is on integrating modern software practices to<br>engineer innovative, scalable, and efficient AI solutions.
 
 
 ## 🌐 Socials:
