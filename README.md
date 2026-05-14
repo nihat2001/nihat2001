@@ -1,5 +1,5 @@
 # 🤖 About Me:
-**~** I am an AI Engineer student dedicated to<br>building intelligent systems.<br><br>**~** My focus is on integrating modern software practices to<br>engineer innovative, scalable, and efficient AI solutions.
+**~** I am an AI Engineer student dedicated to<br>building intelligent systems.<br><br>**~** My focus is on integrating modern software practices to<br>engineer innovative and AI solutions.
 
 
 ## 🌐 Socials:
